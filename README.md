@@ -10,6 +10,14 @@ Aplikacja skupia się wyłącznie na warstwie wizualnej — bez implementacji lo
 - CSS
 - HTML
 
+## Wymagania wstępne
+
+Aby uruchomić aplikację, potrzebujesz:
+
+- [Node.js (LTS)](https://nodejs.org/) — wraz z npm
+- Visual Studio (do otwarcia pliku `.sln` i ewentualnej integracji backendu)
+- Połączenia z internetem (do pobrania zależności)
+
 ## Struktura projektu
 
 ReactApp/
