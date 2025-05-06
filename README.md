@@ -13,34 +13,20 @@ Aplikacja skupia się wyłącznie na warstwie wizualnej — bez implementacji lo
 ## Struktura projektu
 
 ReactApp/
-
 ├── reactapp.client/ # Frontend React
-
 ├── ReactApp.Server/ # (opcjonalny folder backendowy — obecnie nieużywany)
-
 ├── ReactApp.sln # Plik rozwiązania (dla Visual Studio)
-
 ├── .gitignore
-
 └── .gitattributes
-
 
 
 ## Jak uruchomić
 
-1. Przejdź do katalogu `reactapp.client`:
+1. Otwórz plik `ReactApp.sln` w programie **Visual Studio**.
 
-   ```bash
-   cd reactapp.client
+2. Uruchom aplikację, klikając **Start (F5)** lub wybierając **Debuguj > Uruchom bez debugowania (Ctrl+F5)**.
 
-2. Zainstaluj zależności:
-npm install
-
-3. ruchom aplikację:
-npm start
-
-
-Aplikacja zostanie uruchomiona pod adresem http://localhost:5099.
+Po uruchomieniu przeglądarka powinna automatycznie otworzyć aplikację pod odpowiednim adresem lokalnym (np. `http://localhost:5099`.
 
 
 ## Informacje dodatkowe
