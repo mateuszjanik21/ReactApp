@@ -13,11 +13,17 @@ Aplikacja skupia się wyłącznie na warstwie wizualnej — bez implementacji lo
 ## Struktura projektu
 
 ReactApp/
+
 ├── reactapp.client/ # Frontend React
+
 ├── ReactApp.Server/ # (opcjonalny folder backendowy — obecnie nieużywany)
+
 ├── ReactApp.sln # Plik rozwiązania (dla Visual Studio)
+
 ├── .gitignore
+
 └── .gitattributes
+
 
 
 ## Jak uruchomić
