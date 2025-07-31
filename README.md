@@ -18,22 +18,6 @@ Aby uruchomić aplikację, potrzebujesz:
 - Visual Studio (do otwarcia pliku `.sln` i ewentualnej integracji backendu)
 - Połączenia z internetem (do pobrania zależności)
 
-## Struktura projektu
-
-ReactApp/
-
-├── reactapp.client/ # Frontend React
-
-├── ReactApp.Server/ # (opcjonalny folder backendowy — obecnie nieużywany)
-
-├── ReactApp.sln # Plik rozwiązania (dla Visual Studio)
-
-├── .gitignore
-
-└── .gitattributes
-
-
-
 ## Jak uruchomić
 
 1. Otwórz plik `ReactApp.sln` w programie **Visual Studio**.
