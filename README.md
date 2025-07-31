@@ -31,5 +31,3 @@ Po uruchomieniu przeglądarka powinna automatycznie otworzyć aplikację pod odp
 Projekt nie zawiera logiki backendowej ani połączeń z API.
 
 Służy jako szablon lub punkt wyjścia do dalszego rozwoju aplikacji React.
-
-Folder ReactApp.Server jest obecnie pusty i może zostać wykorzystany w przyszłości do dodania backendu.
